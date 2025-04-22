@@ -52,3 +52,14 @@ https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generat
 
 ```js
 const API_KEY = "AIzaSyBi0kkmNZyRkDp2StGkOCGdn7DXakyspyo";
+
+How to Run Locally
+
+1. Clone the repo
+git clone https://github.com/mohammedhassan0199/AiChatApp/.git
+
+2. Install dependencies
+npm install
+
+3. Start the dev server
+npm run dev
