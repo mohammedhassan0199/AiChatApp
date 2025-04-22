@@ -43,7 +43,6 @@ This chatbot connects to the following endpoint:
 
 https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBi0kkmNZyRkDp2StGkOCGdn7DXakyspyo
 
-
 ### 🔐 How to use your own API key:
 
 1. Visit [Google AI Studio](https://ai.google.dev/)
