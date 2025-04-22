@@ -56,7 +56,7 @@ const API_KEY = "AIzaSyBi0kkmNZyRkDp2StGkOCGdn7DXakyspyo";
 How to Run Locally
 
 1. Clone the repo
-git clone https://github.com/mohammedhassan0199/AiChatApp/.git
+git clone https://github.com/mohammedhassan0199/AiChatApp.git
 
 2. Install dependencies
 npm install
